@@ -1,1 +1,1 @@
-# handle-maven-repo
+# Maven Repository for handle.net jar
