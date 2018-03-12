@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 12 17:21:01 CET 2018
+handle-7.3.1.pom>=
+handle-7.3.1.jar>bwfla-internal=
+handle-7.3.1.pom>bwfla-internal=
+handle-7.3.1.jar>=
